@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Verticle: io.vertx.blueprint.todolist.verticles.TodoVerticle
+Main-Class: io.vertx.core.Launcher
+
